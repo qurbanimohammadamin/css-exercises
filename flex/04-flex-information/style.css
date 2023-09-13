@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Edited by Mohammad Amin Qurbani */
+body{
+  text-align: center;
+}
+.title{
+
+  margin-bottom: 32px;
+}
+ .container{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+ }
+.items{
+ 
+  max-width: 200px;
+
+ 
+}
